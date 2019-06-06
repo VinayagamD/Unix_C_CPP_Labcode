@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Unix_c_cpp.dir/code7/palindrome.c.obj"
+  "CMakeFiles/Unix_c_cpp.dir/code8/MatrixMultiplication.c.obj"
   "Unix_c_cpp.pdb"
   "Unix_c_cpp.exe"
   "Unix_c_cpp.exe.manifest"

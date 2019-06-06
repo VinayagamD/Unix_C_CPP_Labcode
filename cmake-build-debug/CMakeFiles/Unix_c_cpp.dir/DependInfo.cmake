@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/WorkSpace/lab/Unix_c_cpp/code7/palindrome.c" "D:/WorkSpace/lab/Unix_c_cpp/cmake-build-debug/CMakeFiles/Unix_c_cpp.dir/code7/palindrome.c.obj"
+  "D:/WorkSpace/lab/Unix_c_cpp/code8/MatrixMultiplication.c" "D:/WorkSpace/lab/Unix_c_cpp/cmake-build-debug/CMakeFiles/Unix_c_cpp.dir/code8/MatrixMultiplication.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

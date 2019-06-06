@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/WorkSpace/lab/Unix_c_cpp/code7/palindrome.c">
+		<Unit filename="D:/WorkSpace/lab/Unix_c_cpp/code8/MatrixMultiplication.c">
 			<Option target="Unix_c_cpp"/>
 		</Unit>
 		<Unit filename="D:/WorkSpace/lab/Unix_c_cpp/CMakeLists.txt">

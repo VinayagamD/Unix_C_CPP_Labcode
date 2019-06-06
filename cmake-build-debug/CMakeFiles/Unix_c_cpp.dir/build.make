@@ -56,27 +56,27 @@ include CMakeFiles/Unix_c_cpp.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Unix_c_cpp.dir/flags.make
 
-CMakeFiles/Unix_c_cpp.dir/code7/palindrome.c.obj: CMakeFiles/Unix_c_cpp.dir/flags.make
-CMakeFiles/Unix_c_cpp.dir/code7/palindrome.c.obj: ../code7/palindrome.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\WorkSpace\lab\Unix_c_cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Unix_c_cpp.dir/code7/palindrome.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Unix_c_cpp.dir\code7\palindrome.c.obj   -c D:\WorkSpace\lab\Unix_c_cpp\code7\palindrome.c
+CMakeFiles/Unix_c_cpp.dir/code8/MatrixMultiplication.c.obj: CMakeFiles/Unix_c_cpp.dir/flags.make
+CMakeFiles/Unix_c_cpp.dir/code8/MatrixMultiplication.c.obj: ../code8/MatrixMultiplication.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\WorkSpace\lab\Unix_c_cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Unix_c_cpp.dir/code8/MatrixMultiplication.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Unix_c_cpp.dir\code8\MatrixMultiplication.c.obj   -c D:\WorkSpace\lab\Unix_c_cpp\code8\MatrixMultiplication.c
 
-CMakeFiles/Unix_c_cpp.dir/code7/palindrome.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Unix_c_cpp.dir/code7/palindrome.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\WorkSpace\lab\Unix_c_cpp\code7\palindrome.c > CMakeFiles\Unix_c_cpp.dir\code7\palindrome.c.i
+CMakeFiles/Unix_c_cpp.dir/code8/MatrixMultiplication.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Unix_c_cpp.dir/code8/MatrixMultiplication.c.i"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\WorkSpace\lab\Unix_c_cpp\code8\MatrixMultiplication.c > CMakeFiles\Unix_c_cpp.dir\code8\MatrixMultiplication.c.i
 
-CMakeFiles/Unix_c_cpp.dir/code7/palindrome.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Unix_c_cpp.dir/code7/palindrome.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\WorkSpace\lab\Unix_c_cpp\code7\palindrome.c -o CMakeFiles\Unix_c_cpp.dir\code7\palindrome.c.s
+CMakeFiles/Unix_c_cpp.dir/code8/MatrixMultiplication.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Unix_c_cpp.dir/code8/MatrixMultiplication.c.s"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\WorkSpace\lab\Unix_c_cpp\code8\MatrixMultiplication.c -o CMakeFiles\Unix_c_cpp.dir\code8\MatrixMultiplication.c.s
 
 # Object files for target Unix_c_cpp
 Unix_c_cpp_OBJECTS = \
-"CMakeFiles/Unix_c_cpp.dir/code7/palindrome.c.obj"
+"CMakeFiles/Unix_c_cpp.dir/code8/MatrixMultiplication.c.obj"
 
 # External object files for target Unix_c_cpp
 Unix_c_cpp_EXTERNAL_OBJECTS =
 
-Unix_c_cpp.exe: CMakeFiles/Unix_c_cpp.dir/code7/palindrome.c.obj
+Unix_c_cpp.exe: CMakeFiles/Unix_c_cpp.dir/code8/MatrixMultiplication.c.obj
 Unix_c_cpp.exe: CMakeFiles/Unix_c_cpp.dir/build.make
 Unix_c_cpp.exe: CMakeFiles/Unix_c_cpp.dir/linklibs.rsp
 Unix_c_cpp.exe: CMakeFiles/Unix_c_cpp.dir/objects1.rsp

@@ -122,32 +122,32 @@ Unix_c_cpp/fast:
 	$(MAKE) -f CMakeFiles\Unix_c_cpp.dir\build.make CMakeFiles/Unix_c_cpp.dir/build
 .PHONY : Unix_c_cpp/fast
 
-code7/palindrome.obj: code7/palindrome.c.obj
+code8/MatrixMultiplication.obj: code8/MatrixMultiplication.c.obj
 
-.PHONY : code7/palindrome.obj
+.PHONY : code8/MatrixMultiplication.obj
 
 # target to build an object file
-code7/palindrome.c.obj:
-	$(MAKE) -f CMakeFiles\Unix_c_cpp.dir\build.make CMakeFiles/Unix_c_cpp.dir/code7/palindrome.c.obj
-.PHONY : code7/palindrome.c.obj
+code8/MatrixMultiplication.c.obj:
+	$(MAKE) -f CMakeFiles\Unix_c_cpp.dir\build.make CMakeFiles/Unix_c_cpp.dir/code8/MatrixMultiplication.c.obj
+.PHONY : code8/MatrixMultiplication.c.obj
 
-code7/palindrome.i: code7/palindrome.c.i
+code8/MatrixMultiplication.i: code8/MatrixMultiplication.c.i
 
-.PHONY : code7/palindrome.i
+.PHONY : code8/MatrixMultiplication.i
 
 # target to preprocess a source file
-code7/palindrome.c.i:
-	$(MAKE) -f CMakeFiles\Unix_c_cpp.dir\build.make CMakeFiles/Unix_c_cpp.dir/code7/palindrome.c.i
-.PHONY : code7/palindrome.c.i
+code8/MatrixMultiplication.c.i:
+	$(MAKE) -f CMakeFiles\Unix_c_cpp.dir\build.make CMakeFiles/Unix_c_cpp.dir/code8/MatrixMultiplication.c.i
+.PHONY : code8/MatrixMultiplication.c.i
 
-code7/palindrome.s: code7/palindrome.c.s
+code8/MatrixMultiplication.s: code8/MatrixMultiplication.c.s
 
-.PHONY : code7/palindrome.s
+.PHONY : code8/MatrixMultiplication.s
 
 # target to generate assembly for a file
-code7/palindrome.c.s:
-	$(MAKE) -f CMakeFiles\Unix_c_cpp.dir\build.make CMakeFiles/Unix_c_cpp.dir/code7/palindrome.c.s
-.PHONY : code7/palindrome.c.s
+code8/MatrixMultiplication.c.s:
+	$(MAKE) -f CMakeFiles\Unix_c_cpp.dir\build.make CMakeFiles/Unix_c_cpp.dir/code8/MatrixMultiplication.c.s
+.PHONY : code8/MatrixMultiplication.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... Unix_c_cpp
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... code7/palindrome.obj
-	@echo ... code7/palindrome.i
-	@echo ... code7/palindrome.s
+	@echo ... code8/MatrixMultiplication.obj
+	@echo ... code8/MatrixMultiplication.i
+	@echo ... code8/MatrixMultiplication.s
 .PHONY : help
 
 

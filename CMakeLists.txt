@@ -3,4 +3,4 @@ project(Unix_c_cpp C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Unix_c_cpp code7/palindrome.c)
+add_executable(Unix_c_cpp code8/MatrixMultiplication.c)
