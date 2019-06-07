@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.14)
-project(Unix_c_cpp C)
+project(Unix_c_cpp)
 
-set(CMAKE_C_STANDARD 11)
+set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Unix_c_cpp code8/MatrixMultiplication.c)
+add_executable(Unix_c_cpp code12/Biggest.cpp)
